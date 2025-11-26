@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b1aafa43f4c00123641e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bodyreader",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bodydata_process::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodydata_process-6862074f802f11b874af.json",
+					"name" : "bodydata_process",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_uninstall-eb8ed76a9f6072317f49.json",
+					"name" : "bodyreader_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "feedback::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-feedback-04931bd4bd3ca62982f4.json",
+					"name" : "feedback",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "follower::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-follower-148e9faf65908c03dae9.json",
+					"name" : "follower",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "image_trans::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-image_trans-6241887ea60b9ac7a031.json",
+					"name" : "image_trans",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interaction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interaction-3a387eb5d976ef2c2296.json",
+					"name" : "interaction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-ca573111e816e397312f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-da9f80effb5b5dbad4cb.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wheeltec/wheeltec_ros2/build/bodyreader",
+		"source" : "/home/wheeltec/wheeltec_ros2/src/wheeltec_bodyreader/bodyreader"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

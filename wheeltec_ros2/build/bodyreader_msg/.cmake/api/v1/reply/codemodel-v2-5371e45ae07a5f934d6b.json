@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-61058230121075dfe644.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "bodyreader_msg__py",
+					"jsonFile" : "directory-bodyreader_msg__py-5bf909b72808482db6f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/wheeltec/wheeltec_ros2/build/bodyreader_msg/bodyreader_msg__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "bodyreader_msg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_bodyreader_msg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_bodyreader_msg_egg-b2e92346893110ba6565.json",
+					"name" : "ament_cmake_python_build_bodyreader_msg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_bodyreader_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_bodyreader_msg-8568c3f4954446db67e3.json",
+					"name" : "ament_cmake_python_copy_bodyreader_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg-d72f1dc175079fd8cf5e.json",
+					"name" : "bodyreader_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__cpp-abacbc80551b21d00bad.json",
+					"name" : "bodyreader_msg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bodyreader_msg__py::@b41816cce6d03496bb63",
+					"jsonFile" : "target-bodyreader_msg__py-af0f841d77e10c9b04ce.json",
+					"name" : "bodyreader_msg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_generator_c-81d8c5fcf5b77b1ec52d.json",
+					"name" : "bodyreader_msg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_generator_py-56415338f5d01b5a8d45.json",
+					"name" : "bodyreader_msg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_c-842cf2a2be9d746c6956.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_c__pyext-def4ce4785ee8d07935a.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_cpp-5d99f317afb09df70b6f.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_fastrtps_c-7afeedf2e2e4dff118be.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_fastrtps_c__pyext-b233de1561cf650f6f3e.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_fastrtps_cpp-068088ff49b6a6503a61.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_introspection_c-d79d6bed4f14968ad246.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_introspection_c__pyext-7dfd5e1ce05838584f29.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg__rosidl_typesupport_introspection_cpp-099ab833416bd679daad.json",
+					"name" : "bodyreader_msg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bodyreader_msg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bodyreader_msg_uninstall-8921bb3105eaa198d21d.json",
+					"name" : "bodyreader_msg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-4b108767388c4dd5a031.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wheeltec/wheeltec_ros2/build/bodyreader_msg",
+		"source" : "/home/wheeltec/wheeltec_ros2/src/wheeltec_bodyreader/bodyreader_msg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
